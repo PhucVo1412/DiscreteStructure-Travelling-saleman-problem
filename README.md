@@ -18,8 +18,8 @@ _A implementation of travelling saleman problem solution in C++_
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/PhucVo1412/ProgrammingFundamentals-Gomoku.git
-cd project-name
+git clone https://github.com/PhucVo1412/DiscreteStructure-Travelling-saleman-problem.git
+cd DiscreteStructure-Travelling-saleman-problem
 ```
 ### **2. Compile the code**
 You can change the matrix input as you wish which is hardly entered in main.cpp
